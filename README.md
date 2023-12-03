@@ -11,3 +11,4 @@ After that, I had it go to the next ticker symbol and reset the total stock volu
 Then it would call the next iteration.
 After that, I placed the values for greatest percent increase, greatest percent increase ticker, greatest percent decrease, greatest percent decrease ticker, greatest total volume, and greatest total volume ticker in the appropriate cells. I also formatted each of the values to the appropriate formats.
 Lastly, I had it call the next sheet in the workbook so it can do the entire code again for it.
+I worked with tutor Mark Fullton, who helped guide me throughout this assignment and gave me tips on certain areas I was stuck on.
